@@ -1,0 +1,1 @@
+g++ -o tubes tubes.cpp Date.cpp Time.cpp DateTime.cpp Pengantri.cpp Teller.cpp Bank.cpp Event.cpp
